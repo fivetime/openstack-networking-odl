@@ -3,11 +3,10 @@ Welcome to networking-odl!
 ==========================
 
 .. Team and repository tags
+.. only:: html
 
-.. image:: http://governance.openstack.org/badges/networking-odl.svg
-    :target: http://governance.openstack.org/reference/tags/index.html
-
-.. Change things from this point on
+   .. image:: http://governance.openstack.org/badges/networking-odl.svg
+       :target: http://governance.openstack.org/reference/tags/index.html
 
 Summary
 -------
@@ -34,3 +33,47 @@ https://docs.openstack.org/releasenotes/networking-odl/
 
 The project source code repository is located at:
 https://opendev.org/openstack/networking-odl
+
+Installation
+------------
+.. toctree::
+   :maxdepth: 2
+
+   install/index
+
+Configuration options
+---------------------
+.. toctree::
+   :maxdepth: 2
+
+   configuration/index
+
+Administration Guide
+--------------------
+.. toctree::
+   :maxdepth: 2
+
+   admin/index
+
+Contributor Guide
+-----------------
+.. toctree::
+   :maxdepth: 2
+
+   contributor/index
+
+Reference Deployment Guide
+--------------------------
+.. toctree::
+   :maxdepth: 2
+
+   reference/index
+
+.. only:: html
+
+   Indices and tables
+   ------------------
+
+   * :ref:`genindex`
+   * :ref:`search`
+
